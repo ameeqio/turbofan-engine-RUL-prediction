@@ -1,1 +1,9 @@
 - training data has got 249 engines
+- no missing values
+- no duplicate rows
+- scale difference exists between the readings of sensors
+- engine31 examination shows almost no linear relationship between the sensor readings and RUL, although sensor-15 shows a strong negative correlation with all other sensors, rest of the sensors are showing a strong positive realtionship with each other, some are having perfect linear-correlation(1)
+
+- for the training dataset, very high inter-sensor correlations exists, sensor 15 stands out as having a negative correlation with other sensors
+
+- sensor readings against cycles show similar kind of plots
