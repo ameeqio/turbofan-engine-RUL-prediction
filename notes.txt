@@ -7,3 +7,4 @@
 - for the training dataset, very high inter-sensor correlations exists, sensor 15 stands out as having a negative correlation with other sensors
 
 - sensor readings against cycles show similar kind of plots
+- for now, data-loader module and the target-variable is created for training and testing data
